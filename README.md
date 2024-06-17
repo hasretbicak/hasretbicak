@@ -1,5 +1,5 @@
 [![MasterHead](https://programmerblog.net/wp-content/uploads/2021/02/what-is-front-end-development-3.png)
-<h1 align="center">Hi 👋, I'm Hasret Biçak</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hasret Biçak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **React**
