@@ -1,4 +1,5 @@
 [![MasterHead](https://programmerblog.net/wp-content/uploads/2021/02/what-is-front-end-development-3.png)
+![](https://komarev.com/ghpvc/?username=hasretbicak&color=blue)
 <h1 align="center">Hi 👋 My name is Hasret Biçak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
