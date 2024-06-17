@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Hasret+Bicak+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
+<img src="https://camo.githubusercontent.com/571e1b07bd12a229e4655e0f584330c56076dd3ad02975293617479c29bb1f0f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966" alt="Coding" width=200 height=200 align="right">
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on **React**
