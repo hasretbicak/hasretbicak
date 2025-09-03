@@ -1,4 +1,4 @@
-![MasterHead](https://programmerblog.net/wp-content/uploads/2021/02/what-is-front-end-development-3.png](https://www.aycmedia.com/ul/img1.png))
+![MasterHead](https://www.aycmedia.com/ul/img1.png)
 ![](https://komarev.com/ghpvc/?username=hasretbicak&color=blue)
 <div align="center">
  <a href="https://github.com/hasretbicak">
